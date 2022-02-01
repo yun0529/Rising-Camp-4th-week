@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    -<style parent="Theme.AppCompat.Light.DarkActionBar" name="AppTheme">
+
+    <item name="colorPrimary">
+    </item>
+
+    <item name="colorPrimaryDark">
+    </item>
+
+    <item name="colorAccent">
+    </item>
+
+</style>
+
+
+    -<style name="Theme.AppCompat.Translucent">
+
+    <item name="windowNoTitle">true</item>
+
+    <item name="android:windowBackground">@android:color/transparent</item>
+
+    <item name="android:background">#1A000000</item>
+
+    <item name="android:windowIsTranslucent">true</item>
+
+</style>
+</resources>
